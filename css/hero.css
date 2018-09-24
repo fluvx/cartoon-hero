@@ -1,0 +1,42 @@
+html, body {
+	font-family: Arial;
+	margin:0;
+}
+
+header{
+	background-color:#aa0000;
+	padding:40px;
+	text-align: center;
+
+}
+
+h1{
+
+	font-size: 90px;
+	color:white;
+
+}
+
+header img{
+	border-radius: 195px;
+	border: 10px solid white;
+
+
+}
+
+.content{
+
+	max-width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: orange;
+	padding: 0 20px;
+	
+
+}
+
+img.big-image{
+
+	margin: auto;
+}
