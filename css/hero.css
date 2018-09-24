@@ -25,10 +25,10 @@ header img{
 }
 
 .content{
+color:white;
+	margin: 0;
 
-	margin:400px;
-
-		background-color: orange;
+		background-color:#aa0000;
 	padding: 0 20px;
 	
 
@@ -36,5 +36,5 @@ header img{
 
 .big-image{
 
-	width: 100%;
+	width: 50%
 }
